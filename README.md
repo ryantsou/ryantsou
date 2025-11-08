@@ -11,9 +11,9 @@
 
 ## 🚀 À propos de moi
 
-⚡️ Daydreamer passionné par le développement et l'innovation, I hope I'm not the only one! ⚡️
+⚡️ Daydreamer I hope I'm not the only one! ⚡️
 
-Développeur full-stack avec une expertise dans la construction d'applications robustes, de l'administration système aux interfaces utilisateur modernes. J'aime créer des solutions qui résolvent de vrais problèmes.
+J'aime créer des solutions qui résolvent de vrais problèmes.
 
 ## 💻 Stack Technique
 
@@ -48,11 +48,6 @@ Développeur full-stack avec une expertise dans la construction d'applications r
 </div>
 
 ## 🎯 Projets Phares
-
-### 🏥 Hope Dispensary - Patient Management System
-Application complète de gestion de patients avec frontend React et backend Django REST API
-- Frontend: [dune-front](https://github.com/ryantsou/dune-front) - Déployé sur [GitHub Pages](https://ryantsou.github.io/dune-front/)
-- Backend: [dune-gestion](https://github.com/ryantsou/dune-gestion)
 
 ### 🔐 Network Security Tools
 - [network-security-audit-scripts](https://github.com/ryantsou/network-security-audit-scripts) - Scripts d'audit de sécurité réseau
