@@ -63,14 +63,6 @@ Application complète de gestion de patients avec frontend React et backend Djan
 - [backup](https://github.com/ryantsou/backup) - Scripts de sauvegarde automatisés
 - [dns-bench](https://github.com/ryantsou/dns-bench) - Benchmark de serveurs DNS
 
-### 💼 Applications Métier
-- [Employer-Manager](https://github.com/ryantsou/Employer-Manager) - Gestion RH en Java
-- [compte-bancaire](https://github.com/ryantsou/compte-bancaire) - Système bancaire en C++
-
-## 🌐 Portfolio
-
-Visitez mon [site portfolio](https://github.com/ryantsou/portfolio) pour voir plus de projets !
-
 ## 📫 Contact
 
 - 📧 LinkedIn: [Riantsoa Rajhonson](https://www.linkedin.com/in/riantsoa-rajhonson)
