@@ -40,15 +40,10 @@ J'aime créer des solutions qui résolvent de vrais problèmes.
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=radical&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=radical&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=radical&hide_border=true&count_private=true)
+/div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=radical&hide_border=true)
-
-</div>
-
-## 🎯 Projets Phares
 
 ### 🔐 Network Security Tools
 - [network-security-audit-scripts](https://github.com/ryantsou/network-security-audit-scripts) - Scripts d'audit de sécurité réseau
