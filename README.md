@@ -42,6 +42,10 @@ J'aime créer des solutions qui résolvent de vrais problèmes.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=radical&hide_border=true)
+
 </div>
 
 ## 🎯 Projets Phares
@@ -49,6 +53,7 @@ J'aime créer des solutions qui résolvent de vrais problèmes.
 ### 🔐 Network Security Tools
 - [network-security-audit-scripts](https://github.com/ryantsou/network-security-audit-scripts) - Scripts d'audit de sécurité réseau
 - [port-audit](https://github.com/ryantsou/port-audit) - Audit des ports ouverts
+- - [shell-keylogger](https://github.com/ryantsou/shell-keylogger) - Outil pédagogique de capture de frappes clavier en shell
 
 ### 🛠️ Administration Système
 - [suivi-travaux](https://github.com/ryantsou/suivi-travaux) - Suivi de maintenance préventive avec calcul d'échéances
