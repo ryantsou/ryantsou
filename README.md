@@ -53,7 +53,7 @@ J'aime créer des solutions qui résolvent de vrais problèmes.
 ### 🔐 Network Security Tools
 - [network-security-audit-scripts](https://github.com/ryantsou/network-security-audit-scripts) - Scripts d'audit de sécurité réseau
 - [port-audit](https://github.com/ryantsou/port-audit) - Audit des ports ouverts
-- - [shell-keylogger](https://github.com/ryantsou/shell-keylogger) - Outil pédagogique de capture de frappes clavier en shell
+- [shell-keylogger](https://github.com/ryantsou/shell-keylogger) - Outil pédagogique de capture de frappes clavier en shell
 
 ### 🛠️ Administration Système
 - [suivi-travaux](https://github.com/ryantsou/suivi-travaux) - Suivi de maintenance préventive avec calcul d'échéances
