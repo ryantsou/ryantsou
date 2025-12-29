@@ -36,17 +36,6 @@ J'aime créer des solutions qui résolvent de vrais problèmes.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=radical&hide_border=true)
-</div>
-
 
 ### 🔐 Network Security Tools
 - [network-security-audit-scripts](https://github.com/ryantsou/network-security-audit-scripts) - Scripts d'audit de sécurité réseau
