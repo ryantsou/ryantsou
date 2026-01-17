@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ryantsou_)
 [![Email](https://img.shields.io/badge/Email-rajhonson@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rajhonson@outlook.com)
 
-### Network Engineer | NOC Specialist | ISO 27001 Lead Auditor
+### IT/Network Engineer | Telecoms | ISO 27001 Lead Auditor | OCI & NSE
 
 *Engineering student at Polytech Dijon specializing in network operations, cybersecurity, and cloud infrastructure*
 
@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Network & IT Engineering** student at **Polytech Dijon** (France)
-- 🔧 **NOC Engineer** experience at STELLARIX (network supervision, automation, incident management)
-- 🛡️ **ISO/IEC 27001:2022 Lead Auditor** certified (Jan 2026)
+- 🎓 **Network & IT Engineering** student at **Polytech Dijon**
+- 🔧 **NOC Engineer** experience at STELLARIX 
+- 🛡️ **ISO/IEC 27001:2022 Lead Auditor** certified
 - ☁️ **Oracle Cloud Infrastructure** certified professional
 - 🔐 **Cisco CyberOps Associate** & **Fortinet Certified** in cybersecurity
 - 🐧 Linux power user (Debian, Arch, Fedora)
@@ -68,10 +68,15 @@
 
 ### Network Engineering
 ```text
+
 Routing Protocols    ████████████████░░░░ 80%  RIP, OSPF, BGP basics
+
 VLAN Management      █████████████████░░░ 85%  L2/L3 switching
+
 Network Security     ██████████████░░░░░░ 70%  Firewall, ACL, VPN
+
 DNS/DHCP Services    █████████████████░░░ 85%  Service configuration
+
 Monitoring & NOC     ██████████████████░░ 90%  LibreNMS, Grafana
 ```
 
@@ -184,20 +189,6 @@ DNS performance testing utility
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus & Learning
 
 - 🔐 **Cybersecurity:** Advanced threat detection and SIEM integration
@@ -233,8 +224,7 @@ DNS performance testing utility
 [![Portfolio](https://img.shields.io/badge/Linktree-All_My_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryantsou)
 
 📍 **Currently based in:** Dijon, France  
-📞 **Phone:** +33 7 59 51 35 12  
-🚗 **Driver's License:** B (EU)
+🚗 **Driver's License:** B
 
 </div>
 
