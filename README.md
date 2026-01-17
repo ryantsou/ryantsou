@@ -68,45 +68,52 @@
 
 ### Network Engineering
 ```text
-Routing Protocols    ████████████████████ RIP, OSPF, BGP
-VLAN Management      ████████████████████ L2/L3 switching
-Network Security     ████████████████████ Firewall, ACL, VPN
-DNS/DHCP Services    ████████████████████ Service management
+Routing Protocols    ████████████████░░░░ 80%  RIP, OSPF, BGP basics
+VLAN Management      █████████████████░░░ 85%  L2/L3 switching
+Network Security     ██████████████░░░░░░ 70%  Firewall, ACL, VPN
+DNS/DHCP Services    █████████████████░░░ 85%  Service configuration
+Monitoring & NOC     ██████████████████░░ 90%  LibreNMS, Grafana
 ```
 
 ### Core Technologies
 
 **Network Security & Firewalls**
-- Cisco ASA, pfSense, Fortigate
+- Cisco ASA, pfSense, Fortigate (configuration and management)
 - SpamTitan (email security)
-- Network segmentation and ACL management
+- Network segmentation and ACL policies
 
 **Monitoring & Observability**
 - LibreNMS, Grafana, CloudBMS
 - Real-time network performance tracking
-- Alerting and incident management
+- Alerting and incident response
 
 **Virtualization & Cloud**
 - VMware, Hyper-V, VirtualBox
-- Oracle Cloud Infrastructure
-- Container orchestration basics
+- Oracle Cloud Infrastructure (OCI certified)
+- Basic containerization (Docker)
 
 **System Administration**
-- Linux (Debian, Arch, Fedora)
-- Windows Server (2016/2019/2022)
-- PowerShell & Bash scripting
+- Linux (Debian, Arch, Fedora) - daily use
+- Windows Server (2016/2019/2022) - administration basics
+- PowerShell & Bash scripting for automation
 
 **Enterprise Tools**
 - ServiceNow (ticketing system)
-- Zimbra (mail server)
-- Microsoft 365 ecosystem
+- Zimbra (mail server administration)
+- Microsoft 365 & Teams collaboration
 
-### Programming & Automation
+### Programming & Scripting
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Proficiency Levels:**
+- **Bash/Shell:** Advanced (network automation, system scripts)
+- **PowerShell:** Intermediate (Windows server management)
+- **Python:** Intermediate (learning network automation)
+- **JavaScript:** Basic (web development fundamentals)
 
 ---
 
