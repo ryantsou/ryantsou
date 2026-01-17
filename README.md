@@ -5,156 +5,229 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riantsoa-rajhonson)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ryantsouMG)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ryantsou_)
+[![Email](https://img.shields.io/badge/Email-rajhonson@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rajhonson@outlook.com)
 
-### Network & IT Engineering Student | Cybersecurity Enthusiast | Automation Developer
+### Network Engineer | NOC Specialist | ISO 27001 Lead Auditor
 
-*Building secure, automated, and efficient IT infrastructure solutions*
+*Engineering student at Polytech Dijon specializing in network operations, cybersecurity, and cloud infrastructure*
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🚀 About Me
 
-- 🔐 Currently studying **Network & IT Engineering** at Polytech Dijon
-- 🛡️ Passionate about **cybersecurity**, **network security**, and **system automation**
-- 🐧 Linux enthusiast with strong command-line skills
-- 🎵 Music producer in my free time (Tropical House, Progressive House)
-- 🎮 Gamer and tech content creator
-- 💡 Always learning and exploring new technologies
+- 🎓 **Network & IT Engineering** student at **Polytech Dijon** (France)
+- 🔧 **NOC Engineer** experience at STELLARIX (network supervision, automation, incident management)
+- 🛡️ **ISO/IEC 27001:2022 Lead Auditor** certified (Jan 2026)
+- ☁️ **Oracle Cloud Infrastructure** certified professional
+- 🔐 **Cisco CyberOps Associate** & **Fortinet Certified** in cybersecurity
+- 🐧 Linux power user (Debian, Arch, Fedora)
+- 🎵 Music producer & sound engineer in my free time
+
+---
+
+## 💼 Professional Experience
+
+### NOC Engineer @ STELLARIX
+*July 2024 - August 2025 | Antananarivo, Madagascar*
+
+- 📊 Network monitoring and optimization for maximum availability
+- 🔥 Rapid diagnosis and resolution of critical infrastructure incidents
+- 🤝 Cross-team collaboration for network performance and security improvement
+- 🤖 Deployment and administration of automation tools
+
+### Project Supervisor @ MNDPT
+*April 2024*
+
+- 👥 Team management for large-scale data collection project
+- 📱 Administration of census application platform
+- ⏰ Process optimization and deadline management
+
+---
+
+## 🎓 Certifications
+
+### Security & Compliance
+![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-Lead_Auditor-00539F?style=flat-square&logo=iso&logoColor=white) **Valid until Dec 2028**
+
+![Fortinet](https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Valid until Jan 2026**
+
+![Cisco](https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Apr 2024**
+
+### Cloud Technologies
+![Oracle](https://img.shields.io/badge/Oracle-OCI_Data_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white) **Valid until Jan 2027**
+
+![Oracle](https://img.shields.io/badge/Oracle-Cloud_Data_Management-F80000?style=flat-square&logo=oracle&logoColor=white) **Valid until May 2026**
+
+![Oracle](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white) **Valid until Apr 2026**
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming & Scripting
+### Network Engineering
 ```text
-Bash/Shell  ███████████████████░░  95%
-Python      ████████████████░░░░░  80%
-JavaScript  █████████████░░░░░░░░  65%
-PHP         ███████████░░░░░░░░░░  55%
-Java        ██████████░░░░░░░░░░░  50%
+Routing Protocols    ████████████████████ RIP, OSPF, BGP
+VLAN Management      ████████████████████ L2/L3 switching
+Network Security     ████████████████████ Firewall, ACL, VPN
+DNS/DHCP Services    ████████████████████ Service management
 ```
 
-### Core Competencies
+### Core Technologies
 
-**Network Administration**
-- Network configuration and troubleshooting
-- VLAN provisioning and management
-- Network monitoring and analysis
-- Firewall configuration
+**Network Security & Firewalls**
+- Cisco ASA, pfSense, Fortigate
+- SpamTitan (email security)
+- Network segmentation and ACL management
 
-**Cybersecurity**
-- Security auditing and vulnerability assessment
-- ISO/IEC 27001:2022 compliance
-- Intrusion detection systems
-- SSL/TLS certificate management
-- Port scanning and security analysis
+**Monitoring & Observability**
+- LibreNMS, Grafana, CloudBMS
+- Real-time network performance tracking
+- Alerting and incident management
+
+**Virtualization & Cloud**
+- VMware, Hyper-V, VirtualBox
+- Oracle Cloud Infrastructure
+- Container orchestration basics
 
 **System Administration**
-- Linux system management (Debian, Ubuntu)
-- Automated backup solutions
-- Service monitoring and alerting
-- Configuration management
-- Shell scripting and automation
+- Linux (Debian, Arch, Fedora)
+- Windows Server (2016/2019/2022)
+- PowerShell & Bash scripting
 
-**Tools & Technologies**
+**Enterprise Tools**
+- ServiceNow (ticketing system)
+- Zimbra (mail server)
+- Microsoft 365 ecosystem
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Programming & Automation
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Network Security & Auditing
+### 🔧 [NetOps Automation Toolkit](https://github.com/ryantsou/netops-automation-toolkit)
+**Comprehensive network operations and monitoring suite**
+- Real-time bandwidth monitoring with threshold alerts
+- Latency tracking and SLA compliance reporting
+- Automated service availability checks
+- VLAN provisioning automation
+- SSL/TLS certificate expiration monitoring
+- Configuration backup with Git versioning
 
-#### [NetOps Automation Toolkit](https://github.com/ryantsou/netops-automation-toolkit)
-Comprehensive suite of network operation and monitoring tools
-- Real-time bandwidth monitoring
-- Latency tracking and analysis
-- Service availability monitoring
-- Automated network provisioning
-- SSL certificate expiration checker
+**Tech Stack:** Bash, Python, YAML, Cron
+
+---
+
+### 🛡️ Network Security Projects
 
 #### [Network Security Audit Scripts](https://github.com/ryantsou/network-security-audit-scripts)
-Automated security audit tools for network infrastructure
-- Firewall rule analysis
-- Intrusion detection
-- Security compliance checking
-- Vulnerability scanning
+Automated security assessment framework
+- Firewall rule analysis and optimization
+- Intrusion detection patterns
+- Compliance checking (ISO 27001, NIST)
+- Vulnerability identification
 
 #### [Port Audit Tool](https://github.com/ryantsou/port-audit)
-Advanced port scanning and analysis utility
-- Comprehensive port scanning
-- Service fingerprinting
-- Security risk assessment
-- Automated reporting
+Advanced port scanning with security analysis
+- Service fingerprinting and version detection
+- Security risk scoring
+- Automated vulnerability mapping
+- HTML/PDF reporting
 
-### 🛠️ System Administration
+---
+
+### 🖥️ System Administration
 
 #### [Infrastructure Maintenance Tracker](https://github.com/ryantsou/suivi-travaux)
-Preventive maintenance tracking system with deadline calculations
-- Automated maintenance scheduling
-- Task tracking and notifications
-- Deadline management
-- Reporting and analytics
+Preventive maintenance scheduling system
+- Automated task tracking with deadline calculations
+- Email notifications for upcoming maintenance
+- Equipment lifecycle management
+- Compliance audit trail
 
 #### [Automated Backup Solutions](https://github.com/ryantsou/backup)
-Robust backup automation scripts
-- Incremental and full backups
-- Remote backup synchronization
-- Integrity verification
-- Automated cleanup and rotation
+Enterprise-grade backup automation
+- Incremental and full backup strategies
+- Remote synchronization (rsync, rclone)
+- Integrity verification with checksums
+- Automated retention and cleanup policies
 
 #### [DNS Benchmark Tool](https://github.com/ryantsou/dns-bench)
-Performance testing for DNS servers
-- Response time analysis
-- Reliability testing
-- Comparative benchmarking
+DNS performance testing utility
+- Response time analysis across multiple resolvers
+- Reliability and uptime tracking
+- Comparative benchmarking reports
 
-### 🎓 Learning & Demonstration
+---
+
+### 🎓 Educational Projects
 
 #### [Shell Keylogger](https://github.com/ryantsou/shell-keylogger)
-Educational keylogging tool written in shell (for security awareness)
+*Educational demonstration of input capture mechanisms*
+- Written in pure shell script
+- Security awareness training tool
+- ⚠️ For educational purposes only
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryantsou&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantsou&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryantsou&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Learning
 
-- 🔒 Deepening knowledge in **cybersecurity** and **ISO/IEC 27001:2022** compliance
-- 🌐 Building advanced **network automation** tools
-- 🐍 Improving **Python** skills for security automation
-- 📚 Exploring **cloud technologies** and **DevSecOps** practices
-- 🎵 Creating music with FL Studio
+- 🔐 **Cybersecurity:** Advanced threat detection and SIEM integration
+- ☁️ **Cloud Technologies:** Multi-cloud architecture (AWS, Azure, OCI)
+- 🔧 **DevOps/NetOps:** Infrastructure as Code (Terraform, Ansible)
+- 📜 **Compliance:** GDPR, ISO 27001 implementation best practices
+- 🐍 **Automation:** Python for network automation (Netmiko, NAPALM)
+- 🎵 **Music Production:** Sound design and mixing (FL Studio, Ableton)
 
 ---
 
-## 📫 Get in Touch
+## 🌐 Languages
+
+- 🇫🇷 **French:** Fluent (B2)
+- 🇬🇧 **English:** Intermediate (Cisco English for IT 2)
+- 🇲🇬 **Malagasy:** Native
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-**Let's connect and collaborate!**
+**Open to collaborations, internships, and professional opportunities in:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riantsoa-rajhonson)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryantsou)
+✅ Network Operations & Engineering  
+✅ Cybersecurity & Compliance  
+✅ Cloud Infrastructure  
+✅ DevOps/NetOps Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riantsoa-rajhonson)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rajhonson@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Linktree-All_My_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryantsou)
+
+📍 **Currently based in:** Dijon, France  
+📞 **Phone:** +33 7 59 51 35 12  
+🚗 **Driver's License:** B (EU)
 
 </div>
 
@@ -162,9 +235,9 @@ Educational keylogging tool written in shell (for security awareness)
 
 <div align="center">
 
-### 💡 *"Security is not a product, but a process."* — Bruce Schneier
+### 💡 *"The best way to predict the future is to implement it."*
 
-**Open to collaborations, internships, and networking opportunities!**
+**Passionate about building secure, scalable, and automated network infrastructure.**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryantsou.ryantsou)
 
