@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajhonson.tech-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://www.rajhonson.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riantsoa-rajhonson)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ryantsouMG)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ryantsou_)
@@ -18,6 +19,7 @@
 ## 🚀 About Me
 
 - 🎓 **Network & IT Engineering** student at **Polytech Dijon**
+- 🎓 **Telecommunications Engineer** - **École Supérieure Polytechnique d'Antananarivo** (ESPA)
 - 🔧 **NOC Engineer** experience at STELLARIX 
 - 🛡️ **ISO/IEC 27001:2022 Lead Auditor** certified
 - ☁️ **Oracle Cloud Infrastructure** certified professional
@@ -51,7 +53,7 @@
 ### Security & Compliance
 ![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-Lead_Auditor-00539F?style=flat-square&logo=iso&logoColor=white) **Valid until Dec 2028**
 
-![Fortinet](https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Valid until Jan 2026**
+![Fortinet](https://img.shields.io/badge/Fortinet-FCA_Cybersecurity-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Valid until Feb 2028**
 
 ![Cisco](https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Apr 2024**
 
@@ -219,6 +221,7 @@ DNS performance testing utility
 ✅ Cloud Infrastructure  
 ✅ DevOps/NetOps Automation
 
+[![Website](https://img.shields.io/badge/Portfolio-rajhonson.tech-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://www.rajhonson.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riantsoa-rajhonson)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rajhonson@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Linktree-All_My_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryantsou)
@@ -235,6 +238,17 @@ DNS performance testing utility
 ### 💡 *"The best way to predict the future is to implement it."*
 
 **Passionate about building secure, scalable, and automated network infrastructure.**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/ryantsou?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ryantsou?style=social)
+
+</div>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryantsou.ryantsou)
 
