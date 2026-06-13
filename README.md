@@ -114,13 +114,11 @@ Monitoring & NOC     ██████████████████░�
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Proficiency Levels:**
 - **Bash/Shell:** Advanced (network automation, system scripts)
 - **PowerShell:** Intermediate (Windows server management)
 - **Python:** Intermediate (learning network automation)
-- **JavaScript:** Basic (web development fundamentals)
 
 ---
 
